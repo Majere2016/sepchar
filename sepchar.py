@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """ 
-* author Allen.L
+* author Zhecheng.Ma
 * \last modified 2017-07-18 10:55:49
 """ 
 
